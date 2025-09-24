@@ -105,6 +105,8 @@ spec:
             mountPath: /etc/group
             readOnly: true
           - name: hostlacework
+            mountPath: /var/lib/lacework
+          - name: hostlaceworkcollector
             mountPath: /var/lib/lacework/collector
           - name: hostlaceworkcontroller
             mountPath: /var/lib/lacework/controller
@@ -133,6 +135,9 @@ spec:
           hostPath:
               path: /var/log
         - name: hostlacework
+          hostPath:
+              path: /var/lib/lacework
+        - name: hostlaceworkcollector
           hostPath:
               path: /var/lib/lacework/collector
         - name: hostlaceworkcontroller
