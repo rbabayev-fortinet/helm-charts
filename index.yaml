@@ -7,7 +7,7 @@ entries:
     dependencies:
     - condition: proxy-scanner.enabled
       name: proxy-scanner
-      repository: https://lacework.github.io/helm-charts
+      repository: https://rbabayev-fortinet.github.io/helm-charts
       version: 0.23.2
     description: Lacework admission controller using Lacework proxy scanner
     digest: e33f8c70d49cd459a08db7a231572142a804b00a4e41d7d979124fa4addd5f42
@@ -29,7 +29,7 @@ entries:
     dependencies:
     - condition: proxy-scanner.enabled
       name: proxy-scanner
-      repository: https://lacework.github.io/helm-charts
+      repository: https://rbabayev-fortinet.github.io/helm-charts
       version: 0.23.1
     description: Lacework admission controller using Lacework proxy scanner
     digest: 24f93515ec8243d9468b088b0d20f7701ed6991ec42e9863e6aa8f77c77a6630
@@ -51,7 +51,7 @@ entries:
     dependencies:
     - condition: proxy-scanner.enabled
       name: proxy-scanner
-      repository: https://lacework.github.io/helm-charts
+      repository: https://rbabayev-fortinet.github.io/helm-charts
       version: 0.23.0
     description: Lacework admission controller using Lacework proxy scanner
     digest: c8f64dca973a767dbaf80f95b88629f21245d1549a719da42862bd3f0dcf3f1c
@@ -73,7 +73,7 @@ entries:
     dependencies:
     - condition: proxy-scanner.enabled
       name: proxy-scanner
-      repository: https://lacework.github.io/helm-charts
+      repository: https://rbabayev-fortinet.github.io/helm-charts
       version: 0.21.1
     description: Lacework admission controller using Lacework proxy scanner
     digest: 5bdf76a9c698868944668cda4a2d6be1fea8be5edbe996d176e06ff94e583028
@@ -95,7 +95,7 @@ entries:
     dependencies:
     - condition: proxy-scanner.enabled
       name: proxy-scanner
-      repository: https://lacework.github.io/helm-charts
+      repository: https://rbabayev-fortinet.github.io/helm-charts
       version: 0.21.0
     description: Lacework admission controller using Lacework proxy scanner
     digest: 07d770050b9748bc0efdb62510cd1e9b37d0ab7ba92c4c32d8660482d8325281
@@ -117,7 +117,7 @@ entries:
     dependencies:
     - condition: proxy-scanner.enabled
       name: proxy-scanner
-      repository: https://lacework.github.io/helm-charts
+      repository: https://rbabayev-fortinet.github.io/helm-charts
       version: 0.20.1
     description: Lacework admission controller using Lacework proxy scanner
     digest: 77f9f695cc475867db99c4490f9b5c91a6d372434db8647f6d8de0be0c9edfa8
@@ -139,7 +139,7 @@ entries:
     dependencies:
     - condition: proxy-scanner.enabled
       name: proxy-scanner
-      repository: https://lacework.github.io/helm-charts
+      repository: https://rbabayev-fortinet.github.io/helm-charts
       version: 0.20.0
     description: Lacework admission controller using Lacework proxy scanner
     digest: 08c2df71bc4269d40f42c97b3dad48320fda17871cd48ba9cadb99a9a6b1deb9
@@ -161,7 +161,7 @@ entries:
     dependencies:
     - condition: proxy-scanner.enabled
       name: proxy-scanner
-      repository: https://lacework.github.io/helm-charts
+      repository: https://rbabayev-fortinet.github.io/helm-charts
       version: 0.19.0
     description: Lacework admission controller using Lacework proxy scanner
     digest: 6c4cadac91866508370f07b0938f496cfec4961443bad76f459632d3c23733bc
@@ -183,7 +183,7 @@ entries:
     dependencies:
     - condition: proxy-scanner.enabled
       name: proxy-scanner
-      repository: https://lacework.github.io/helm-charts
+      repository: https://rbabayev-fortinet.github.io/helm-charts
       version: 0.18.1
     description: Lacework admission controller using Lacework proxy scanner
     digest: 1e65d5a9931f67a09b86e1e363e9de5db9608d758f12de5b5d273dc8ceafdf96
@@ -205,7 +205,7 @@ entries:
     dependencies:
     - condition: proxy-scanner.enabled
       name: proxy-scanner
-      repository: https://lacework.github.io/helm-charts
+      repository: https://rbabayev-fortinet.github.io/helm-charts
       version: 0.18.0
     description: Lacework admission controller using Lacework proxy scanner
     digest: b9293bd60bde77b717c4b746fb07ebd1f8fb51c8cf7d84f3a46cacf4269d5272
@@ -227,7 +227,7 @@ entries:
     dependencies:
     - condition: proxy-scanner.enabled
       name: proxy-scanner
-      repository: https://lacework.github.io/helm-charts
+      repository: https://rbabayev-fortinet.github.io/helm-charts
       version: 0.17.0
     description: Lacework admission controller using Lacework proxy scanner
     digest: ccc9f683d8356eb429e7e417fbf248c09e647961974dd4a6ec13e16e1e596be5
@@ -249,7 +249,7 @@ entries:
     dependencies:
     - condition: proxy-scanner.enabled
       name: proxy-scanner
-      repository: https://lacework.github.io/helm-charts
+      repository: https://rbabayev-fortinet.github.io/helm-charts
       version: 0.16.0
     description: Lacework admission controller using Lacework proxy scanner
     digest: e48e63e4879848bb628b9d4189422f9b716a36ccf1e66dfa3a1681b163b3a572
@@ -271,7 +271,7 @@ entries:
     dependencies:
     - condition: proxy-scanner.enabled
       name: proxy-scanner
-      repository: https://lacework.github.io/helm-charts
+      repository: https://rbabayev-fortinet.github.io/helm-charts
       version: 0.15.1
     description: Lacework admission controller using Lacework proxy scanner
     digest: bf699100ed723e95d77d25ad173e364ffa684299e661193bc55c5326399f16c2
@@ -293,7 +293,7 @@ entries:
     dependencies:
     - condition: proxy-scanner.enabled
       name: proxy-scanner
-      repository: https://lacework.github.io/helm-charts
+      repository: https://rbabayev-fortinet.github.io/helm-charts
       version: 0.15.0
     description: Lacework admission controller using Lacework proxy scanner
     digest: 7deaa06be848b4ae6f850a3bb55a8ce68becfcf8aaf37829162e1a6da1efe289
@@ -315,7 +315,7 @@ entries:
     dependencies:
     - condition: proxy-scanner.enabled
       name: proxy-scanner
-      repository: https://lacework.github.io/helm-charts
+      repository: https://rbabayev-fortinet.github.io/helm-charts
       version: 0.14.2
     description: Lacework admission controller using Lacework proxy scanner
     digest: 1cd740b154ef0060c939b792af7c24a13f633bd68b0aad5f43766c1b5b5070a3
@@ -337,7 +337,7 @@ entries:
     dependencies:
     - condition: proxy-scanner.enabled
       name: proxy-scanner
-      repository: https://lacework.github.io/helm-charts
+      repository: https://rbabayev-fortinet.github.io/helm-charts
       version: 0.14.1
     description: Lacework admission controller using Lacework proxy scanner
     digest: f6fef68b00f1c7a1d8782b681cb135316492c4b77b8f16429bdd224d72b6de7f
@@ -359,7 +359,7 @@ entries:
     dependencies:
     - condition: proxy-scanner.enabled
       name: proxy-scanner
-      repository: https://lacework.github.io/helm-charts
+      repository: https://rbabayev-fortinet.github.io/helm-charts
       version: 0.14.0
     description: Lacework admission controller using Lacework proxy scanner
     digest: 854249d4092a75774facefc1cd3110fd00bc6feb57c996b103084dca32595ff9
@@ -381,7 +381,7 @@ entries:
     dependencies:
     - condition: proxy-scanner.enabled
       name: proxy-scanner
-      repository: https://lacework.github.io/helm-charts
+      repository: https://rbabayev-fortinet.github.io/helm-charts
       version: 0.13.0
     description: Lacework admission controller using Lacework proxy scanner
     digest: 0a99e66310d5389204c19ec05ecf93b71a3b405586597e050ee273c2f27374e2
@@ -403,7 +403,7 @@ entries:
     dependencies:
     - condition: proxy-scanner.enabled
       name: proxy-scanner
-      repository: https://lacework.github.io/helm-charts
+      repository: https://rbabayev-fortinet.github.io/helm-charts
       version: 0.12.1
     description: Lacework admission controller using Lacework proxy scanner
     digest: 3c5a535a408dc82dbf931a40358ccebcf7ef5cb35c8588e143e28e826657aaa5
@@ -425,7 +425,7 @@ entries:
     dependencies:
     - condition: proxy-scanner.enabled
       name: proxy-scanner
-      repository: https://lacework.github.io/helm-charts
+      repository: https://rbabayev-fortinet.github.io/helm-charts
       version: 0.12.0
     description: Lacework admission controller using Lacework proxy scanner
     digest: 04f4f113121baf27d7111b1a70648396dc5baecc4f4db35b9577811d3d910686
@@ -447,7 +447,7 @@ entries:
     dependencies:
     - condition: proxy-scanner.enabled
       name: proxy-scanner
-      repository: https://lacework.github.io/helm-charts
+      repository: https://rbabayev-fortinet.github.io/helm-charts
       version: 0.11.4
     description: Lacework admission controller using Lacework proxy scanner
     digest: bbc064d4bf0d9e2dc14bc5a5961c33cbee3359224a289713a3a65bab6462c8af
@@ -469,7 +469,7 @@ entries:
     dependencies:
     - condition: proxy-scanner.enabled
       name: proxy-scanner
-      repository: https://lacework.github.io/helm-charts
+      repository: https://rbabayev-fortinet.github.io/helm-charts
       version: 0.11.3
     description: Lacework admission controller using Lacework proxy scanner
     digest: 8d629b1edef39c0c1e59b3efe3a25b7e62dd7ebbc79b58a1f100e692573aa6fc
@@ -491,7 +491,7 @@ entries:
     dependencies:
     - condition: proxy-scanner.enabled
       name: proxy-scanner
-      repository: https://lacework.github.io/helm-charts
+      repository: https://rbabayev-fortinet.github.io/helm-charts
       version: 0.11.2
     description: Lacework admission controller using Lacework proxy scanner
     digest: 2ab9bbc1d6564e2066200c11e02b0216bdc8565b80a8e2b7da7c82ba110e91c1
@@ -513,7 +513,7 @@ entries:
     dependencies:
     - condition: proxy-scanner.enabled
       name: proxy-scanner
-      repository: https://lacework.github.io/helm-charts
+      repository: https://rbabayev-fortinet.github.io/helm-charts
       version: 0.11.1
     description: Lacework admission controller using Lacework proxy scanner
     digest: b0cc981e9320e58b3ba7575c8a150bb43dec54b9ddc479973fc1e0b8e8cf7b55
@@ -535,7 +535,7 @@ entries:
     dependencies:
     - condition: proxy-scanner.enabled
       name: proxy-scanner
-      repository: https://lacework.github.io/helm-charts
+      repository: https://rbabayev-fortinet.github.io/helm-charts
       version: 0.11.0
     description: Lacework admission controller using Lacework proxy scanner
     digest: a701f2be574284a2a73de46086940a28c17d2d550faf7c4861d6d099ebac5c57
@@ -557,7 +557,7 @@ entries:
     dependencies:
     - condition: proxy-scanner.enabled
       name: proxy-scanner
-      repository: https://lacework.github.io/helm-charts
+      repository: https://rbabayev-fortinet.github.io/helm-charts
       version: 0.10.0
     description: Lacework admission controller using Lacework proxy scanner
     digest: 760c38d1948149b9913ec9b839e7f5c57cdcfd95208790104600b47847db3a00
@@ -579,7 +579,7 @@ entries:
     dependencies:
     - condition: proxy-scanner.enabled
       name: proxy-scanner
-      repository: https://lacework.github.io/helm-charts
+      repository: https://rbabayev-fortinet.github.io/helm-charts
       version: 0.10.0
     description: Lacework admission controller using Lacework proxy scanner
     digest: 456baf5611c7bc85bc1d76b08225281630b58bf970300d0294b389e522c7219b
@@ -601,7 +601,7 @@ entries:
     dependencies:
     - condition: proxy-scanner.enabled
       name: proxy-scanner
-      repository: https://lacework.github.io/helm-charts
+      repository: https://rbabayev-fortinet.github.io/helm-charts
       version: 0.8.0
     description: Lacework admission controller using Lacework proxy scanner
     digest: e77bd71c8f04d6c8d7053c7361b8bc6c7c619bb7b73e21e9fb758d88aa2adbad
@@ -623,7 +623,7 @@ entries:
     dependencies:
     - condition: proxy-scanner.enabled
       name: proxy-scanner
-      repository: https://lacework.github.io/helm-charts
+      repository: https://rbabayev-fortinet.github.io/helm-charts
       version: 0.5.0
     description: Lacework admission controller using Lacework proxy scanner
     digest: 6aa810294e079715adb472e305b6b136dbdd39c130c6912be14ed9645312201b
@@ -645,7 +645,7 @@ entries:
     dependencies:
     - condition: proxy-scanner.enabled
       name: proxy-scanner
-      repository: https://lacework.github.io/helm-charts
+      repository: https://rbabayev-fortinet.github.io/helm-charts
       version: 0.4.0
     description: Lacework admission controller using Lacework proxy scanner
     digest: df2842e199515cc1cb73fe601f50441bbdaf47b8ba3b7adf0cf6f486c24eb579
@@ -667,7 +667,7 @@ entries:
     dependencies:
     - condition: proxy-scanner.enabled
       name: proxy-scanner
-      repository: https://lacework.github.io/helm-charts
+      repository: https://rbabayev-fortinet.github.io/helm-charts
       version: 0.3.1
     description: Lacework admission controller using Lacework proxy scanner
     digest: 45e2f581ce72c6e7d7ab51684fc994b91d976ced46485a73a8e36ed2a1c433e8
@@ -689,7 +689,7 @@ entries:
     dependencies:
     - condition: proxy-scanner.enabled
       name: proxy-scanner
-      repository: https://lacework.github.io/helm-charts
+      repository: https://rbabayev-fortinet.github.io/helm-charts
       version: 0.2.15
     description: Lacework admission controller using Lacework proxy scanner
     digest: 71a5ba9344257507472559a9bd0f595239d2b1fc51517c7ca3ee446406bc73fe
@@ -711,7 +711,7 @@ entries:
     dependencies:
     - condition: proxy-scanner.enabled
       name: proxy-scanner
-      repository: https://lacework.github.io/helm-charts
+      repository: https://rbabayev-fortinet.github.io/helm-charts
       version: 0.2.13
     description: Lacework admission controller using Lacework proxy scanner
     digest: b818356133bd72aef8c3bae0db5819bf179ad12c2f13727c088023dcbea3b9be
@@ -733,7 +733,7 @@ entries:
     dependencies:
     - condition: proxy-scanner.enabled
       name: proxy-scanner
-      repository: https://lacework.github.io/helm-charts
+      repository: https://rbabayev-fortinet.github.io/helm-charts
       version: 0.2.9
     description: Lacework admission controller using Lacework proxy scanner
     digest: 71bfc5b409da43706fceb4e1bcb5adaacacabfd0091d8312d05e22cf06e3d25b
@@ -755,7 +755,7 @@ entries:
     dependencies:
     - condition: proxy-scanner.enabled
       name: proxy-scanner
-      repository: https://lacework.github.io/helm-charts
+      repository: https://rbabayev-fortinet.github.io/helm-charts
       version: 0.2.8
     description: Lacework admission controller using Lacework proxy scanner
     digest: 50285571bd9ab3a679bec1098a74ba8b5adc680c371b09caaf773fbc291194a7
@@ -777,7 +777,7 @@ entries:
     dependencies:
     - condition: proxy-scanner.enabled
       name: proxy-scanner
-      repository: https://lacework.github.io/helm-charts
+      repository: https://rbabayev-fortinet.github.io/helm-charts
       version: 0.2.5
     description: Lacework admission controller using Lacework proxy scanner
     digest: 9c0bca6cf63b99070f22f8eff357a4e54ae8fd6a0bf8a9a82fbc24a0d7c381ab
@@ -799,7 +799,7 @@ entries:
     dependencies:
     - condition: proxy-scanner.enabled
       name: proxy-scanner
-      repository: https://lacework.github.io/helm-charts
+      repository: https://rbabayev-fortinet.github.io/helm-charts
       version: 0.2.2
     description: Lacework admission controller using Lacework proxy scanner
     digest: d4237d89cd765955f37599aa49fee0b3a7041b644de833ee28d5759a9483def5
@@ -821,7 +821,7 @@ entries:
     dependencies:
     - condition: proxy-scanner.enabled
       name: proxy-scanner
-      repository: https://lacework.github.io/helm-charts
+      repository: https://rbabayev-fortinet.github.io/helm-charts
       version: 0.2.2
     description: Lacework admission controller using Lacework proxy scanner
     digest: 74ea4088ecb266b6a234ca108079e0f067541886823756893d3a02d68fe3423a
@@ -843,7 +843,7 @@ entries:
     dependencies:
     - condition: proxy-scanner.enabled
       name: proxy-scanner
-      repository: https://lacework.github.io/helm-charts
+      repository: https://rbabayev-fortinet.github.io/helm-charts
       version: 0.2.2
     description: Lacework admission controller using Lacework proxy scanner
     digest: c8d01b37286474bdcf0250fc50841ed65ac568332329efa4ec0fc798b1327069
